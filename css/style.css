@@ -39,8 +39,8 @@
 
 .main_visual .slg {
     position: absolute;
-    top: 30%;
-    left: 80%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 
     max-width: 1170px;
